@@ -1,0 +1,233 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CoinHarmony.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CoinHarmony.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\amc\\animated.js",
+      "PackagePath": "staticwebassets\\assets\\amc\\animated.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\amc\\charts.js",
+      "PackagePath": "staticwebassets\\assets\\amc\\charts.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\amc\\core.js",
+      "PackagePath": "staticwebassets\\assets\\amc\\core.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\css\\icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\css\\ui.css",
+      "PackagePath": "staticwebassets\\assets\\css\\ui.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\dark\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\dark\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Pe-icon-7-stroke.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Pe-icon-7-stroke.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Pe-icon-7-stroke.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Pe-icon-7-stroke.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\fonts\\cryptofont-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\cryptofont-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\fonts\\cryptofont-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\cryptofont-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\fonts\\cryptofont-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\cryptofont-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\fonts\\cryptofont-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\cryptofont-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\images\\bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\images\\coins\\bite.png",
+      "PackagePath": "staticwebassets\\assets\\images\\coins\\bite.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\images\\coins\\btc.png",
+      "PackagePath": "staticwebassets\\assets\\images\\coins\\btc.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\images\\coins\\btcc.png",
+      "PackagePath": "staticwebassets\\assets\\images\\coins\\btcc.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\images\\coins\\cardano.png",
+      "PackagePath": "staticwebassets\\assets\\images\\coins\\cardano.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\images\\coins\\dash.png",
+      "PackagePath": "staticwebassets\\assets\\images\\coins\\dash.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\images\\coins\\doge.png",
+      "PackagePath": "staticwebassets\\assets\\images\\coins\\doge.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\images\\coins\\eth.png",
+      "PackagePath": "staticwebassets\\assets\\images\\coins\\eth.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\images\\coins\\ethc.png",
+      "PackagePath": "staticwebassets\\assets\\images\\coins\\ethc.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\images\\coins\\ltc.png",
+      "PackagePath": "staticwebassets\\assets\\images\\coins\\ltc.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\images\\coins\\monero.png",
+      "PackagePath": "staticwebassets\\assets\\images\\coins\\monero.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\images\\coins\\nem.png",
+      "PackagePath": "staticwebassets\\assets\\images\\coins\\nem.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\images\\coins\\neo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\coins\\neo.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\images\\coins\\stlr.png",
+      "PackagePath": "staticwebassets\\assets\\images\\coins\\stlr.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\images\\coins\\tether.png",
+      "PackagePath": "staticwebassets\\assets\\images\\coins\\tether.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\images\\coins\\tron.png",
+      "PackagePath": "staticwebassets\\assets\\images\\coins\\tron.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\images\\coins\\xrp.png",
+      "PackagePath": "staticwebassets\\assets\\images\\coins\\xrp.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\images\\coins\\zc.png",
+      "PackagePath": "staticwebassets\\assets\\images\\coins\\zc.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\images\\coins\\zil.png",
+      "PackagePath": "staticwebassets\\assets\\images\\coins\\zil.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\images\\download-arrow.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\download-arrow.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\images\\empty.png",
+      "PackagePath": "staticwebassets\\assets\\images\\empty.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\images\\logo.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\images\\star.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\star.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\images\\up-arrow.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\up-arrow.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\images\\vip.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\vip.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\js\\amc.js",
+      "PackagePath": "staticwebassets\\assets\\js\\amc.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoinHarmony\\CoinHarmony\\wwwroot\\assets\\light\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\light\\css\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CoinHarmony.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CoinHarmony.props",
+      "PackagePath": "build\\CoinHarmony.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CoinHarmony.props",
+      "PackagePath": "buildMultiTargeting\\CoinHarmony.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CoinHarmony.props",
+      "PackagePath": "buildTransitive\\CoinHarmony.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
